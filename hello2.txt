@@ -1,2 +1,4 @@
 hello git2
 i am going to use you to complete something
+
+this time i want to merge it with the master branch
